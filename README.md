@@ -58,7 +58,7 @@ DialogueGenerator
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/synthetic-dialogue-generator.git
+git clone https://github.com/babumarie/synthetic-dialogue-generator.git
 cd synthetic-dialogue-generator
 
 # Set up virtual environment
